@@ -1,6 +1,6 @@
 # PruebaIntegradora
 
 Nicolás Cameto
-Matelo Lonjedo
+Matelo Lonjedo :grinning:
 Winsley Jeune
 Javier Fuentes
