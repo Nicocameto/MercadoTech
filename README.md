@@ -6,9 +6,6 @@ Este es uno de los temas que mas me gusto debido a la facilidad que encontre par
 ![Imagen de github :D]([https://myoctocat.com/assets/images/base-octocat.svg](https://www.genexus.com/es/noticias/leer-noticia/genexus-sa-mueve-desarrollo-de-clases-estandar-de-java-a-github-open-source))
 
 
-https://www.genexus.com/es/noticias/leer-noticia/genexus-sa-mueve-desarrollo-de-clases-estandar-de-java-a-github-open-source
-
-
 # PruebaIntegradora
 
 Nicolás Cameto
