@@ -2,5 +2,5 @@
 
 Nicolás Cameto :uruguay:
 Matelo Lonjedo :grinning:
-Winsley Jeune
+Winsley Jeunen  :smile:
 Javier Fuentes
