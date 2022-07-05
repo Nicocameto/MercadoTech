@@ -1,6 +1,6 @@
 # PruebaIntegradora
 
-**_Git Bash_**
+***Git Bash***
 Me parece que esta bueno sobretodo para tener una forma de moverse entre
 carpetas, agregar archivos, modificarlos, tener repositorios donde guardar informacion y compartir la misma.
 
