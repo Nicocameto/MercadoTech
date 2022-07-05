@@ -5,7 +5,7 @@ Matelo Lonjedo :grinning:
 Winsley Jeunen  :smile:
 Javier Fuentes  :heart:
 
-# ** Hardware y Software  **
+# **_Hardware y Software _**
 
 Me gusto mucho este tema porque aprendimos como funciona la computadora y la 
 simbiosis del hardware con el software.
